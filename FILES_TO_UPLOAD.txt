@@ -1,0 +1,22 @@
+FILES TO UPLOAD TO GITHUB:
+===========================
+
+REQUIRED FILES (Upload these):
+- index.html
+- photo_2025-12-28_21-01-04.jpg
+- photo_2025-12-28_21-01-07.jpg
+- photo_2025-12-28_21-01-13.jpg
+- photo_2025-12-28_21-01-16.jpg
+- photo_2025-12-28_21-01-20.jpg
+- photo_2025-12-28_21-01-23.jpg
+- photo_2025-12-28_21-01-33.jpg
+- photo_2025-12-28_21-01-36.jpg
+- WhatsApp Audio 2025-12-28 at 8.13.57 PM.mpeg
+- README.md
+
+DO NOT UPLOAD:
+- index (1).html (this is a backup)
+- server.ps1 (not needed for GitHub Pages)
+- DEPLOY.md (optional)
+- FILES_TO_UPLOAD.txt (this file)
+

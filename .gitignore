@@ -1,0 +1,7 @@
+# Ignore server script (not needed for GitHub Pages)
+server.ps1
+
+# Ignore any temporary files
+*.tmp
+*.log
+
